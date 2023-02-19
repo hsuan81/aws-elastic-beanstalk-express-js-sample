@@ -1,6 +1,6 @@
 {
   "name": "aws-elastic-beanstalk-express-js-sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample Node.js (Express) app for AWS Elastic Beanstalk",
   
   "scripts": {
